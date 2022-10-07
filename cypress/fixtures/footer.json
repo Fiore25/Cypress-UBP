@@ -1,0 +1,32 @@
+{
+    "OPENCART": [ 
+        "Features", 
+        "Showcase", 
+        "Demo", 
+        "Download",
+        "Marketplace",
+        "Login"
+    ],
+    "COMPANY": [
+        "Contact Us",
+        "Extension Advertising",
+        "Marketplace Advertising",
+        "About Us",
+        "Terms & Conditions",
+        "Extension Developer"
+    ],
+    "SUPPORT": [
+        "Community Forum",
+        "Dedicated Support",
+        "OpenCart Partners",
+        "Marketplace Support",
+        "Migrate to OpenCart"
+    ],
+    "RESOURCES": [
+        "OpenCart Blog",
+        "OpenCart Documentation",
+        "OpenCart Books",
+        "Github Bug Tracker",
+        "Developer"
+    ]
+}

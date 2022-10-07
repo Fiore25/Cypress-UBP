@@ -1,0 +1,20 @@
+{
+    "users": [
+        {
+            "user": "fioreAdduci",
+            "password": "automation"
+        },
+        {
+            "user": "juanPerez",
+            "password": "automation2"  
+        },
+        {
+            "user": "luciaGomez",
+            "password": "automation2"  
+        },
+        {
+            "user": "robertoCarlos",
+            "password": "automation2"  
+        }
+    ]
+}
