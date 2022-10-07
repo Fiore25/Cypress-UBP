@@ -16,6 +16,6 @@ npm install cypress@9
 
 npx cypress open
 
-npm install --save-dev mochawesome
+npm install mochawesome (me dio error y no lo pude instalar)
 
 
